@@ -1,2 +1,2 @@
 # Personal_Projects
-Projects in this repository are social work towards various communities, topic picked are based on current trend.
+Projects in this repository are my works done for various business, communities & on trending topics in the Data Science world.
